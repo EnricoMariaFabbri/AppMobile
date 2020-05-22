@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="HelveticaNeue.ttc">
+            <string>HelveticaNeue</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="BSDStackMenuCell" customModule="M_JobOffice" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="270" height="65"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uTz-xp-bcW">
+                    <rect key="frame" x="220" y="0.0" width="50" height="50"/>
+                    <color key="backgroundColor" red="0.25152704120000002" green="0.59099471569999995" blue="0.71696496009999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="50" id="NuT-hM-fni"/>
+                        <constraint firstAttribute="height" constant="50" id="wAY-ga-MIh"/>
+                    </constraints>
+                    <state key="normal" image="drawer"/>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Visualizza le persone da visualizzare" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="J9V-aP-eNE" customClass="LabelForStackMenu" customModule="M_JobOffice" customModuleProvider="target">
+                    <rect key="frame" x="10.5" y="17" width="209.5" height="15.5"/>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="13"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="uTz-xp-bcW" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="3cR-wY-Yy6"/>
+                <constraint firstItem="uTz-xp-bcW" firstAttribute="leading" secondItem="J9V-aP-eNE" secondAttribute="trailing" id="LVk-5D-Uif"/>
+                <constraint firstItem="J9V-aP-eNE" firstAttribute="centerY" secondItem="uTz-xp-bcW" secondAttribute="centerY" id="QaT-02-Dir"/>
+                <constraint firstAttribute="trailing" secondItem="uTz-xp-bcW" secondAttribute="trailing" id="xYh-1P-vO2"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="icon" destination="uTz-xp-bcW" id="Wz3-bq-SaP"/>
+                <outlet property="lblTitle" destination="J9V-aP-eNE" id="vg5-SO-PYF"/>
+            </connections>
+            <point key="canvasLocation" x="33" y="54.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="drawer" width="24" height="24"/>
+    </resources>
+</document>

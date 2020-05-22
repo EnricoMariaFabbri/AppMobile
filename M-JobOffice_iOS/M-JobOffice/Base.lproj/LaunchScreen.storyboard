@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina5_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splash_image" translatesAutoresizingMaskIntoConstraints="NO" id="h2i-jM-cET">
+                                <rect key="frame" x="57" y="302.66666666666669" width="300" height="131"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="300" id="IYH-b4-bOx"/>
+                                    <constraint firstAttribute="height" constant="131" id="use-dv-OA0"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splash_background_iPhone" translatesAutoresizingMaskIntoConstraints="NO" id="Xhe-Qh-G2V">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                                <viewLayoutGuide key="safeArea" id="eoE-qq-tLe"/>
+                                <variation key="heightClass=regular-widthClass=regular" image="splash_background_iPad"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splash_image" translatesAutoresizingMaskIntoConstraints="NO" id="X4t-xj-Yjs">
+                                <rect key="frame" x="57" y="302.66666666666669" width="300" height="131"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="131" id="60u-tq-s6d"/>
+                                    <constraint firstAttribute="width" constant="300" id="zzm-90-wuk"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splash_logo_maggioli" translatesAutoresizingMaskIntoConstraints="NO" id="KQg-9S-Sqt">
+                                <rect key="frame" x="168" y="648" width="78" height="78"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="78" id="X38-Oa-GbB"/>
+                                    <constraint firstAttribute="width" constant="78" id="Z3J-51-s9C"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="X4t-xj-Yjs" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="EXg-IU-JbR"/>
+                            <constraint firstItem="h2i-jM-cET" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="NBD-wT-ftE"/>
+                            <constraint firstItem="K6X-ee-fSk" firstAttribute="bottom" secondItem="KQg-9S-Sqt" secondAttribute="bottom" constant="10" id="U6e-Tz-O8C"/>
+                            <constraint firstAttribute="bottom" secondItem="Xhe-Qh-G2V" secondAttribute="bottom" id="Uig-3X-85I"/>
+                            <constraint firstItem="KQg-9S-Sqt" firstAttribute="centerX" secondItem="X4t-xj-Yjs" secondAttribute="centerX" id="WQE-jS-Ev3"/>
+                            <constraint firstItem="Xhe-Qh-G2V" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="hgr-eI-q2n"/>
+                            <constraint firstItem="h2i-jM-cET" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="lFb-cA-HoA"/>
+                            <constraint firstItem="X4t-xj-Yjs" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="mTi-IJ-RAG"/>
+                            <constraint firstItem="Xhe-Qh-G2V" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="nDL-RQ-vwP"/>
+                            <constraint firstAttribute="trailing" secondItem="Xhe-Qh-G2V" secondAttribute="trailing" id="rPl-tF-rou"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="K6X-ee-fSk"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="50.512445095168374" y="373.828125"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="splash_background_iPad" width="1550.5" height="1092"/>
+        <image name="splash_background_iPhone" width="401" height="731.5"/>
+        <image name="splash_image" width="362" height="157.5"/>
+        <image name="splash_logo_maggioli" width="97.5" height="98"/>
+    </resources>
+</document>

@@ -1,0 +1,282 @@
+
+/* Class = "UITextField"; placeholder = "Cognome"; ObjectID = "01D-Xe-QjA"; */
+"01D-Xe-QjA.placeholder" = "Cognome";
+
+/* Class = "UIButton"; normalTitle = "Seleziona sesso"; ObjectID = "09s-Rq-0wN"; */
+"09s-Rq-0wN.normalTitle" = "Seleziona sesso";
+
+/* Class = "UIButton"; normalTitle = "Verifica ABI e CABI"; ObjectID = "0QH-ax-jDw"; */
+"0QH-ax-jDw.normalTitle" = "Verifica ABI e CABI";
+
+/* Class = "UILabel"; text = "Esterna"; ObjectID = "0bu-AU-VRT"; */
+"0bu-AU-VRT.text" = "Esterna";
+
+/* Class = "UILabel"; text = "Periodo di rifrimento"; ObjectID = "1W1-kb-XPv"; */
+"1W1-kb-XPv.text" = "Periodo di rifrimento";
+
+/* Class = "UIButton"; normalTitle = "SALVA"; ObjectID = "2gT-hD-71c"; */
+"2gT-hD-71c.normalTitle" = "SALVA";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "2jB-1W-0ma"; */
+"2jB-1W-0ma.normalTitle" = "LOGIN";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "36Y-8M-tP3"; */
+"36Y-8M-tP3.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Parentela"; ObjectID = "3EK-a9-Mza"; */
+"3EK-a9-Mza.text" = "Parentela";
+
+/* Class = "UILabel"; text = "Cedolini"; ObjectID = "3G4-Zz-HYL"; */
+"3G4-Zz-HYL.text" = "Cedolini";
+
+/* Class = "UITextField"; placeholder = "Nome"; ObjectID = "3Pt-Za-0sg"; */
+"3Pt-Za-0sg.placeholder" = "Nome";
+
+/* Class = "UILabel"; text = "Cedolini"; ObjectID = "3m3-JC-4Xe"; */
+"3m3-JC-4Xe.text" = "Cedolini";
+
+/* Class = "UITextField"; placeholder = "%"; ObjectID = "43b-7j-6cy"; */
+"43b-7j-6cy.placeholder" = "%";
+
+/* Class = "UIButton"; normalTitle = "Bonus DL 66/14"; ObjectID = "4K7-cK-DwR"; */
+"4K7-cK-DwR.normalTitle" = "Bonus DL 66/14";
+
+/* Class = "UITextField"; placeholder = "CAB"; ObjectID = "5KR-n9-2AQ"; */
+"5KR-n9-2AQ.placeholder" = "CAB";
+
+/* Class = "UILabel"; text = "Inserire parentela"; ObjectID = "66K-GA-wtR"; */
+"66K-GA-wtR.text" = "Inserire parentela";
+
+/* Class = "UIButton"; normalTitle = "ANNULLA"; ObjectID = "6HQ-Uh-DX2"; */
+"6HQ-Uh-DX2.normalTitle" = "ANNULLA";
+
+/* Class = "UILabel"; text = "ABI"; ObjectID = "74g-bT-h7c"; */
+"74g-bT-h7c.text" = "ABI";
+
+/* Class = "UILabel"; text = "Snap"; ObjectID = "7kA-g9-zbN"; */
+"7kA-g9-zbN.text" = "Snap";
+
+/* Class = "UILabel"; text = "Ultima revisione: Mai"; ObjectID = "8ST-5r-Btr"; */
+"8ST-5r-Btr.text" = "Ultima revisione: Mai";
+
+/* Class = "UITextView"; text = "Inserire testo..."; ObjectID = "Bdk-t7-plJ"; */
+"Bdk-t7-plJ.text" = "Inserire testo...";
+
+/* Class = "UILabel"; text = "Gestione Account"; ObjectID = "DCF-hP-fMv"; */
+"DCF-hP-fMv.text" = "Gestione Account";
+
+/* Class = "UILabel"; text = "CAB"; ObjectID = "DM1-kX-f0v"; */
+"DM1-kX-f0v.text" = "CAB";
+
+/* Class = "UILabel"; text = "Cin It"; ObjectID = "EE9-Zw-5rH"; */
+"EE9-Zw-5rH.text" = "Cin It";
+
+/* Class = "UILabel"; text = "ENTE DI TEST"; ObjectID = "Ehz-El-mtg"; */
+"Ehz-El-mtg.text" = "ENTE DI TEST";
+
+/* Class = "UILabel"; text = "Un app realizzata da:"; ObjectID = "Hiq-nt-z4t"; */
+"Hiq-nt-z4t.text" = "Un app realizzata da:";
+
+/* Class = "UILabel"; text = "Stato richiesta/Motivo rifiuto"; ObjectID = "HlS-rX-v5G"; */
+"HlS-rX-v5G.text" = "Stato richiesta/Motivo rifiuto";
+
+/* Class = "UITextField"; placeholder = "00000000000000"; ObjectID = "Hxt-cL-Kxo"; */
+"Hxt-cL-Kxo.placeholder" = "00000000000000";
+
+/* Class = "UILabel"; text = "Per info e segnalazioni:"; ObjectID = "ILZ-tE-0P9"; */
+"ILZ-tE-0P9.text" = "Per info e segnalazioni:";
+
+/* Class = "UIButton"; normalTitle = "Modalità di pagamento"; ObjectID = "Imj-fI-gX3"; */
+"Imj-fI-gX3.normalTitle" = "Modalità di pagamento";
+
+/* Class = "UIButton"; normalTitle = "Seleziona parentela"; ObjectID = "IpD-Xf-dEn"; */
+"IpD-Xf-dEn.normalTitle" = "Seleziona parentela";
+
+/* Class = "UITextField"; placeholder = "Luogo di nascita"; ObjectID = "JPZ-hg-xZa"; */
+"JPZ-hg-xZa.placeholder" = "Luogo di nascita";
+
+/* Class = "UILabel"; text = "Scansiona il QR Code fornito per accedere"; ObjectID = "Knp-HF-8KV"; */
+"Knp-HF-8KV.text" = "Scansiona il QR Code fornito per accedere";
+
+/* Class = "UIButton"; normalTitle = "Orfano"; ObjectID = "L6I-DK-Yw3"; */
+"L6I-DK-Yw3.normalTitle" = "Orfano";
+
+/* Class = "UILabel"; text = "Richiesta assegno nucleo fam."; ObjectID = "Nun-Cw-U3w"; */
+"Nun-Cw-U3w.text" = "Richiesta assegno nucleo fam.";
+
+/* Class = "UILabel"; text = "ANF"; ObjectID = "OG0-cs-awm"; */
+"OG0-cs-awm.text" = "ANF";
+
+/* Class = "UITextField"; placeholder = "Altro reddito"; ObjectID = "Pui-Bt-k4G"; */
+"Pui-Bt-k4G.placeholder" = "Altro reddito";
+
+/* Class = "UILabel"; text = "Componenti nucleo famigliare"; ObjectID = "PvR-27-Jq9"; */
+"PvR-27-Jq9.text" = "Componenti nucleo famigliare";
+
+/* Class = "UITextField"; placeholder = "Cin Eu"; ObjectID = "R0N-VA-vLP"; */
+"R0N-VA-vLP.placeholder" = "Cin Eu";
+
+/* Class = "UILabel"; text = "Informazioni"; ObjectID = "Ttx-yj-Bca"; */
+"Ttx-yj-Bca.text" = "Informazioni";
+
+/* Class = "UILabel"; text = "Inserire nome"; ObjectID = "Uh3-Uz-d1k"; */
+"Uh3-Uz-d1k.text" = "Inserire nome";
+
+/* Class = "UITextView"; text = "info@maggioli.it"; ObjectID = "Vwu-IZ-rBS"; */
+"Vwu-IZ-rBS.text" = "info@maggioli.it";
+
+/* Class = "UILabel"; text = "2016"; ObjectID = "XU9-6C-w5w"; */
+"XU9-6C-w5w.text" = "2016";
+
+/* Class = "UITextField"; placeholder = "% Spettante"; ObjectID = "Y3c-Xi-Pzu"; */
+"Y3c-Xi-Pzu.placeholder" = "% Spettante";
+
+/* Class = "UIButton"; normalTitle = "Seleziona anno fiscale"; ObjectID = "Zd7-df-wFN"; */
+"Zd7-df-wFN.normalTitle" = "Seleziona anno fiscale";
+
+/* Class = "UILabel"; text = "Descrizione Cedolino"; ObjectID = "Zle-9r-BTf"; */
+"Zle-9r-BTf.text" = "Descrizione Cedolino";
+
+/* Class = "UILabel"; text = "Reddito"; ObjectID = "Zue-Qz-RD9"; */
+"Zue-Qz-RD9.text" = "Reddito";
+
+/* Class = "UILabel"; text = "Inserire nome"; ObjectID = "a89-o6-AoR"; */
+"a89-o6-AoR.text" = "Inserire nome";
+
+/* Class = "UILabel"; text = "CUD"; ObjectID = "aO0-j1-mtE"; */
+"aO0-j1-mtE.text" = "CUD";
+
+/* Class = "UIButton"; normalTitle = "ANF"; ObjectID = "aPr-Dd-GKq"; */
+"aPr-Dd-GKq.normalTitle" = "ANF";
+
+/* Class = "UIButton"; normalTitle = "Seleziona data di nascita"; ObjectID = "ape-ta-gDN"; */
+"ape-ta-gDN.normalTitle" = "Seleziona data di nascita";
+
+/* Class = "UILabel"; text = "Richiesta Detrazioni Fiscali"; ObjectID = "atF-DI-if3"; */
+"atF-DI-if3.text" = "Richiesta Detrazioni Fiscali";
+
+/* Class = "UILabel"; text = "Informazioni di Curriculum"; ObjectID = "bWT-jO-9lP"; */
+"bWT-jO-9lP.text" = "Informazioni di Curriculum";
+
+/* Class = "UILabel"; text = "Ente di riferimento"; ObjectID = "bal-qu-QX2"; */
+"bal-qu-QX2.text" = "Ente di riferimento";
+
+/* Class = "UITextField"; text = "COMUNE DI MODENA"; ObjectID = "bmX-8z-ecf"; */
+"bmX-8z-ecf.text" = "COMUNE DI MODENA";
+
+/* Class = "UITextField"; placeholder = "Provincia/Stato estero nascita"; ObjectID = "bv8-hm-N3Z"; */
+"bv8-hm-N3Z.placeholder" = "Provincia/Stato estero nascita";
+
+/* Class = "UITextField"; placeholder = "ABI"; ObjectID = "bx1-uN-2xN"; */
+"bx1-uN-2xN.placeholder" = "ABI";
+
+/* Class = "UILabel"; text = "Aggiungi membro"; ObjectID = "bz7-d6-GIc"; */
+"bz7-d6-GIc.text" = "Aggiungi membro";
+
+/* Class = "UILabel"; text = "COMUNE DI MODENA"; ObjectID = "cmI-he-kQ7"; */
+"cmI-he-kQ7.text" = "COMUNE DI MODENA";
+
+/* Class = "UILabel"; text = "Cin Eu"; ObjectID = "d9g-Ie-XGk"; */
+"d9g-Ie-XGk.text" = "Cin Eu";
+
+/* Class = "UILabel"; text = "Ente di riferimento"; ObjectID = "dzH-JM-onl"; */
+"dzH-JM-onl.text" = "Ente di riferimento";
+
+/* Class = "UIButton"; normalTitle = "Studente/Apprendista"; ObjectID = "g38-uw-iRX"; */
+"g38-uw-iRX.normalTitle" = "Studente/Apprendista";
+
+/* Class = "UILabel"; text = "Ente di riferimento"; ObjectID = "gdL-Bc-qaX"; */
+"gdL-Bc-qaX.text" = "Ente di riferimento";
+
+/* Class = "UITextField"; placeholder = "Reddito dipendente"; ObjectID = "hDn-WN-ufO"; */
+"hDn-WN-ufO.placeholder" = "Reddito dipendente";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "hNJ-1x-qtk"; */
+"hNJ-1x-qtk.text" = "Logout";
+
+/* Class = "UILabel"; text = "Richiesta Detrazioni Fiscali"; ObjectID = "iEp-Ns-TXE"; */
+"iEp-Ns-TXE.text" = "Richiesta Detrazioni Fiscali";
+
+/* Class = "UIButton"; normalTitle = "Tipologia di pagamento"; ObjectID = "ivS-a3-InO"; */
+"ivS-a3-InO.normalTitle" = "Tipologia di pagamento";
+
+/* Class = "UITextField"; placeholder = "Reddito ulteriore"; ObjectID = "iwA-7m-dEB"; */
+"iwA-7m-dEB.placeholder" = "Reddito ulteriore";
+
+/* Class = "UILabel"; text = "Paese"; ObjectID = "j1h-3N-lSF"; */
+"j1h-3N-lSF.text" = "Paese";
+
+/* Class = "UIButton"; normalTitle = "Detrazione famiglia numerosa"; ObjectID = "j6U-ue-jGf"; */
+"j6U-ue-jGf.normalTitle" = "Detrazione famiglia numerosa";
+
+/* Class = "UILabel"; text = "Anno fiscale"; ObjectID = "j7d-wV-th5"; */
+"j7d-wV-th5.text" = "Anno fiscale";
+
+/* Class = "UILabel"; text = "Inserire parentela"; ObjectID = "l8x-ye-oBi"; */
+"l8x-ye-oBi.text" = "Inserire parentela";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "liW-pw-Q5n"; */
+"liW-pw-Q5n.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Aliquota IRPEF FISSA"; ObjectID = "maY-7S-qmU"; */
+"maY-7S-qmU.normalTitle" = "Aliquota IRPEF FISSA";
+
+/* Class = "UILabel"; text = "Administrator"; ObjectID = "n3C-Wb-MJJ"; */
+"n3C-Wb-MJJ.text" = "Administrator";
+
+/* Class = "UILabel"; text = "Aggiungi membro"; ObjectID = "n6X-SY-cll"; */
+"n6X-SY-cll.text" = "Aggiungi membro";
+
+/* Class = "UILabel"; text = "Cesena"; ObjectID = "nTL-jH-eXM"; */
+"nTL-jH-eXM.text" = "Cesena";
+
+/* Class = "UILabel"; text = "Generalità"; ObjectID = "o2d-vw-Rmq"; */
+"o2d-vw-Rmq.text" = "Generalità";
+
+/* Class = "UILabel"; text = "Istituto Bancario"; ObjectID = "oeC-BN-8Eb"; */
+"oeC-BN-8Eb.text" = "Istituto Bancario";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "poH-vi-Wrq"; */
+"poH-vi-Wrq.normalTitle" = "+";
+
+/* Class = "UITextField"; placeholder = "Paese"; ObjectID = "r5w-Er-xbk"; */
+"r5w-Er-xbk.placeholder" = "Paese";
+
+/* Class = "UILabel"; text = "Impostazioni"; ObjectID = "rgm-9i-9gt"; */
+"rgm-9i-9gt.text" = "Impostazioni";
+
+/* Class = "UILabel"; text = "Dati fiscali"; ObjectID = "rkx-yh-Cgx"; */
+"rkx-yh-Cgx.text" = "Dati fiscali";
+
+/* Class = "UILabel"; text = "Componente nucleo"; ObjectID = "sZx-8T-d0T"; */
+"sZx-8T-d0T.text" = "Componente nucleo";
+
+/* Class = "UIButton"; normalTitle = "Luglio 2016 - Giugno 2017 Ente di test"; ObjectID = "t4Q-P7-UyC"; */
+"t4Q-P7-UyC.normalTitle" = "Luglio 2016 - Giugno 2017 Ente di test";
+
+/* Class = "UITextField"; placeholder = "Codice fiscale"; ObjectID = "tYR-ri-0ca"; */
+"tYR-ri-0ca.placeholder" = "Codice fiscale";
+
+/* Class = "UIButton"; normalTitle = "Orfano"; ObjectID = "tdY-Ij-JsS"; */
+"tdY-Ij-JsS.normalTitle" = "Orfano";
+
+/* Class = "UILabel"; text = "Gestione account"; ObjectID = "uOo-PD-0Vj"; */
+"uOo-PD-0Vj.text" = "Gestione account";
+
+/* Class = "UILabel"; text = "Gallery"; ObjectID = "vYn-nC-rHt"; */
+"vYn-nC-rHt.text" = "Gallery";
+
+/* Class = "UILabel"; text = "Variazione Accredito Retribuzioni"; ObjectID = "xXK-M8-sCM"; */
+"xXK-M8-sCM.text" = "Variazione Accredito Retribuzioni";
+
+/* Class = "UITextField"; placeholder = "Cin It"; ObjectID = "yXA-9Z-K8h"; */
+"yXA-9Z-K8h.placeholder" = "Cin It";
+
+/* Class = "UILabel"; text = "CUD"; ObjectID = "ydg-vV-P42"; */
+"ydg-vV-P42.text" = "CUD";
+
+/* Class = "UILabel"; text = "Conto corrente"; ObjectID = "ypN-g0-mmz"; */
+"ypN-g0-mmz.text" = "Conto corrente";
+
+/* Class = "UIButton"; normalTitle = "Detrazione produzione reddito"; ObjectID = "zQ1-zJ-IrP"; */
+"zQ1-zJ-IrP.normalTitle" = "Detrazione produzione reddito";

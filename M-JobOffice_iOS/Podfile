@@ -1,0 +1,41 @@
+platform :ios, '8.0'
+source 'http://git.bsdsoftware.it/Specs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target ‘M-JobOffice’ do
+	
+	pod 'FMDB'
+	pod 'AFNetworking', '~> 2.6'
+	pod 'MBProgressHUD', '~> 0.9'
+	pod 'Reachability', '~> 3.2'
+	pod 'MMDrawerController', '~> 0.6'
+	pod 'ActionSheetPicker-3.0'
+	pod 'GZIP', '~> 1.1'
+	pod 'UIScrollView-InfiniteScroll'
+	pod 'RxSwift',    '~> 4.0'
+	pod 'RxCocoa',    '~> 4.0'
+	pod 'SwiftyJSON'
+	pod 'RATreeView', '~> 2.1.2'
+	pod 'Firebase', '4.0.3'
+	pod 'Firebase/Core', '4.0.3'
+	pod 'ZBarSDK'
+	pod 'Fabric'
+	pod 'CryptoSwift', '~> 0.8'
+	pod 'Crashlytics'
+	pod 'CustomAnimations', '1.2'
+	#pod 'Spring', :git => 'https://github.com/MengTo/Spring.git', :branch => 'swift3'
+  pod 'Spring', :git => 'https://github.com/MengTo/Spring.git'
+	pod 'SwiftSpinner', git: 'https://lcanali@gitlab.bsdsoftware.it/Mobile/SwiftSpinner.git'
+
+	
+	
+	post_install do |installer|
+		installer.pods_project.targets.each do |target|
+			target.build_configurations.each do |config|
+				config.build_settings['SWIFT_VERSION'] = '4.2'
+			end
+		end
+	end
+	
+end

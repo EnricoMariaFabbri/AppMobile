@@ -1,0 +1,6 @@
+framework module CustomAnimations {
+  umbrella header "CustomAnimations-umbrella.h"
+
+  export *
+  module * { export * }
+}
