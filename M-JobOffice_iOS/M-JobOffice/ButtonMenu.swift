@@ -1,10 +1,4 @@
-//
-//  ButtonMenu.swift
-//  CorghiService
-//
-//  Created by Stage on 12/12/16.
-//  Copyright © 2016 Sama Alessandro. All rights reserved.
-//
+
 
 import UIKit
 import MMDrawerController

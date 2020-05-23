@@ -14,8 +14,8 @@
             filePath = "M-JobOffice/ViewControllers/VariazCredRetViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "539"
-            endingLineNumber = "539"
+            startingLineNumber = "533"
+            endingLineNumber = "533"
             landmarkName = "reloadData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -30,8 +30,8 @@
             filePath = "M-JobOffice/ViewControllers/VariazCredRetViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "434"
-            endingLineNumber = "434"
+            startingLineNumber = "428"
+            endingLineNumber = "428"
             landmarkName = "getUpdatesPayment()"
             landmarkType = "7">
          </BreakpointContent>
@@ -46,8 +46,8 @@
             filePath = "M-JobOffice/ViewControllers/VariazCredRetViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "433"
-            endingLineNumber = "433"
+            startingLineNumber = "427"
+            endingLineNumber = "427"
             landmarkName = "getUpdatesPayment()"
             landmarkType = "7">
          </BreakpointContent>

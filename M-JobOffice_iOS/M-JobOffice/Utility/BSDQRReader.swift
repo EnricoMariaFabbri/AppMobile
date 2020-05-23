@@ -1,10 +1,4 @@
-//
-//  BRDQRReader.swift
-//  testSeiZoneAnimataions
-//
-//  Created by Leonardo Canali on 23/02/17.
-//  Copyright © 2017 Leonardo Canali. All rights reserved.
-//
+
 
 import UIKit
 

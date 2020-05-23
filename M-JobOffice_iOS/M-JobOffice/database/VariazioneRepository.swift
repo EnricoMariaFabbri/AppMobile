@@ -1,10 +1,4 @@
-//
-//  CreditsViewController.swift
-//  M-JobOffice
-//
-//  Created by Leonardo Canali on 16/10/18.
-//  Copyright © 2018 Stage. All rights reserved.
-//
+
 
 import Foundation
 

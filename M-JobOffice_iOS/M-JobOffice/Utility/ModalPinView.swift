@@ -1,10 +1,3 @@
-//
-//  ModalPinView.swift
-//  AppSegreteria
-//
-//  Created by Leonardo Canali on 19/05/17.
-//  Copyright © 2017 Sama Alessandro. All rights reserved.
-//
 
 import UIKit
 

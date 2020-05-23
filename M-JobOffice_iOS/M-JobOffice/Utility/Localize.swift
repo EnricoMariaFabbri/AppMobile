@@ -1,10 +1,4 @@
-//
-//  Localize.swift
-//  Localize
-//
-//  Created by Roy Marmelstein on 05/08/2015.
-//  Copyright © 2015 Roy Marmelstein. All rights reserved.
-//
+
 
 import Foundation
 

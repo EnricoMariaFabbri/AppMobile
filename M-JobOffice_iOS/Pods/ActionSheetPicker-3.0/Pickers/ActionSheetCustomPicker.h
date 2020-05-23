@@ -1,10 +1,4 @@
-//
-//  ActionSheetPicker.h
-//  ActionSheetPicker
-//
-//  Created by  on 13/03/2012.
-//  Copyright (c) 2012 Club 15CC. All rights reserved.
-//
+
 #import <UIKit/UIKit.h>
 #import "AbstractActionSheetPicker.h"
 #import "ActionSheetCustomPickerDelegate.h"

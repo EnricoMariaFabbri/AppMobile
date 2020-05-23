@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  M-JobOffice
-//
-//  Created by Stage on 30/01/17.
-//  Copyright © 2017 Stage. All rights reserved.
-//
+
 
 import UIKit
 import Fabric

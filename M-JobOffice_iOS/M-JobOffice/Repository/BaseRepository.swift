@@ -1,10 +1,3 @@
-//
-//  BaseRepository.swift
-//  CorghiService
-//
-//  Created by Sama Alessandro on 05/05/16.
-//  Copyright © 2016 Sama Alessandro. All rights reserved.
-//
 
 import UIKit
 import FMDB

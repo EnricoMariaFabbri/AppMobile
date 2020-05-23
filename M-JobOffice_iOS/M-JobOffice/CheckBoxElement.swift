@@ -1,10 +1,4 @@
-//
-//  CheckBoxElement.swift
-//  AppSegreteria
-//
-//  Created by Leonardo Canali on 06/04/17.
-//  Copyright © 2017 Sama Alessandro. All rights reserved.
-//
+
 
 import UIKit
 

@@ -1,10 +1,3 @@
-//
-//  Daily.swift
-//  M-JobOffice
-//
-//  Created by Stage on 21/11/18.
-//  Copyright © 2018 Stage. All rights reserved.
-//
 
 import Foundation
 

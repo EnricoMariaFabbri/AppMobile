@@ -1,10 +1,4 @@
-//
-//  VariazCredRetViewController.swift
-//  M-JobOffice
-//
-//  Created by Leonardo Canali on 09/10/18.
-//  Copyright © 2018 Stage. All rights reserved.
-//
+
 
 import UIKit
 import ActionSheetPicker_3_0

@@ -1,9 +1,4 @@
-//
-//  QRCodeModel.swift
-//
-//  Created by Sama Alessandro on 09/09/16
-//  Copyright (c) . All rights reserved.
-//
+
 
 import Foundation
 

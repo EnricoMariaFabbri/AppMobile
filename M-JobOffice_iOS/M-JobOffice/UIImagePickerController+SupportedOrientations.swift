@@ -1,10 +1,3 @@
-//
-//  UIImagePickerController+SupportedOrientations.swift
-//  AppSegreteria
-//
-//  Created by Sama Alessandro on 24/10/16.
-//  Copyright © 2016 Sama Alessandro. All rights reserved.
-//
 
 import UIKit
 

@@ -1,10 +1,3 @@
-//
-//  LoginViewController.swift
-//  M-JobOffice
-//
-//  Created by Stage on 30/01/17.
-//  Copyright © 2017 Leonardo Canali. All rights reserved.
-//
 
 import UIKit
 import MMDrawerController

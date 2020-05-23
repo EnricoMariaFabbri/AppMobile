@@ -1,10 +1,4 @@
-//
-//  BSDStackMenu.swift
-//  M-Accerta
-//
-//  Created by Leonardo Canali on 26/09/17.
-//  Copyright © 2017 BSD Software. All rights reserved.
-//
+
 
 import UIKit
 

@@ -1,10 +1,3 @@
-//
-//  DrawerTableViewCell.swift
-//  M-JobOffice
-//
-//  Created by Leonardo Canali on 02/02/17.
-//  Copyright © 2017 Stage. All rights reserved.
-//
 
 import UIKit
 

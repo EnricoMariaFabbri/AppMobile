@@ -1,10 +1,4 @@
-//
-//  WebService.swift
-//  ProvaSwift
-//
-//  Created by Sama Alessandro on 02/03/16.
-//  Copyright © 2016 Sama Alessandro. All rights reserved.
-//
+
 
 import AFNetworking
 import RxSwift

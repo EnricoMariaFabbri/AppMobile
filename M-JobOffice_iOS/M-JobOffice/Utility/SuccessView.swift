@@ -1,10 +1,4 @@
-//
-//  SuccessView.swift
-//  M-JobOffice
-//
-//  Created by Leonardo Canali on 30/10/18.
-//  Copyright © 2018 Stage. All rights reserved.
-//
+
 
 import UIKit
 

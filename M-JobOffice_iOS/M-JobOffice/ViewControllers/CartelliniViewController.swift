@@ -1,10 +1,3 @@
-//
-//  CartelliniViewController.swift
-//  M-JobOffice
-//
-//  Created by Leonardo Canali on 17/11/17.
-//  Copyright © 2017 Stage. All rights reserved.
-//
 
 import UIKit
 import SwiftSpinner

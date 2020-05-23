@@ -1,10 +1,3 @@
-//
-//  Cu.swift
-//  M-JobOffice
-//
-//  Created by Leonardo Canali on 01/06/17.
-//  Copyright © 2017 Stage. All rights reserved.
-//
 
 import Foundation
 

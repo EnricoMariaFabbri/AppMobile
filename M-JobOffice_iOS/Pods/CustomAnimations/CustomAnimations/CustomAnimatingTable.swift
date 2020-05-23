@@ -1,10 +1,4 @@
-//
-//  CustomAnimatingTable.swift
-//  CircularTransition
-//
-//  Created by Stage on 24/01/17.
-//  Copyright © 2017 Training. All rights reserved.
-//
+
 
 import Foundation
 import UIKit

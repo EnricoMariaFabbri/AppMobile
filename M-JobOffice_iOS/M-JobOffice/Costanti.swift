@@ -1,10 +1,4 @@
-//
-//  Costanti.swift
-//  AppSegreteria
-//
-//  Created by Canali Leonardo on 01/02/17.
-//  Copyright © 2016 Sama Alessandro. All rights reserved.
-//
+
 
 import UIKit
 

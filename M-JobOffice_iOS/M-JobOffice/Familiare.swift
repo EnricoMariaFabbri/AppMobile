@@ -1,10 +1,4 @@
-//
-//  Familiare.swift
-//  M-JobOffice
-//
-//  Created by Stage on 09/11/18.
-//  Copyright © 2018 Stage. All rights reserved.
-//
+
 
 import Foundation
 

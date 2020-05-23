@@ -1,10 +1,4 @@
-//
-//  UtentiRepository.swift
-//  AppSegreteria
-//
-//  Created by Sama Alessandro on 16/01/17.
-//  Copyright © 2017 Canali Leonardo. All rights reserved.
-//
+
 
 import UIKit
 

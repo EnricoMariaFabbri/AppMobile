@@ -1,10 +1,4 @@
-//
-//  TipologiaPagamentoRepository.swift
-//  M-JobOffice
-//
-//  Created by Enrico Fabbri on 16/04/2020.
-//  Copyright © 2020 Stage. All rights reserved.
-//
+
 
 import UIKit
 

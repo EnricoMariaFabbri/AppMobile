@@ -1,10 +1,4 @@
-//
-//  DetrazioniRepository.swift
-//  M-JobOffice
-//
-//  Created by Jean Paul Elleri on 08/04/2020.
-//  Copyright © 2020 Stage. All rights reserved.
-//
+
 
 import Foundation
 

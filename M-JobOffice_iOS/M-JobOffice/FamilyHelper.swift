@@ -1,10 +1,4 @@
-//
-//  FamilyHelper.swift
-//  M-JobOffice
-//
-//  Created by Stage on 15/11/18.
-//  Copyright © 2018 Stage. All rights reserved.
-//
+
 
 import UIKit
 

@@ -1,10 +1,4 @@
-//
-//  FileHelper.swift
-//  CorghiService
-//
-//  Created by Sama Alessandro on 13/05/16.
-//  Copyright © 2016 Sama Alessandro. All rights reserved.
-//
+
 
 import UIKit
 

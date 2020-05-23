@@ -1,10 +1,4 @@
-//
-//  BackButton.swift
-//  M-JobOffice
-//
-//  Created by Leonardo Canali on 29/05/17.
-//  Copyright © 2017 Stage. All rights reserved.
-//
+
 
 import UIKit
 

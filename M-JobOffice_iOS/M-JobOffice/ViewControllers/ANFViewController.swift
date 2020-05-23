@@ -1,10 +1,3 @@
-//
-//  ANFViewController.swift
-//  M-JobOffice
-//
-//  Created by Leonardo Canali on 03/02/17.
-//  Copyright © 2017 Stage. All rights reserved.
-//
 
 import UIKit
 import ActionSheetPicker_3_0

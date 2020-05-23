@@ -1,10 +1,4 @@
-//
-//  BSDQrReader.swift
-//  BSDQRCodeReader
-//
-//  Created by Leonardo Canali on 23/02/17.
-//  Copyright © 2017 BSDUtility. All rights reserved.
-//
+
 
 import UIKit
 import Foundation

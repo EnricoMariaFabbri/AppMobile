@@ -1,10 +1,4 @@
-//
-//  Utente.swift
-//  AppSegreteria
-//
-//  Created by Leonardo Canali on 27/02/17.
-//  Copyright © 2017 Sama Alessandro. All rights reserved.
-//
+
 
 import Foundation
 class Utente{
